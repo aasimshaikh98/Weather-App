@@ -1,1 +1,2 @@
 # Weather-App
+This Weather App provides real-time weather information for any location worldwide. By taking user input, it displays the current weather, including temperature, humidity, pressure, wind speed, and a brief description. Additionally, the app provides a 7-day weather forecast using data from api.openweathermap.org, offering details such as daily temperatures, night temperatures, humidity levels, pressure, and wind speeds. It also includes the local time, region, and location information, making it a comprehensive tool for weather tracking and planning.
